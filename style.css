@@ -1,0 +1,38 @@
+h1, h2, h3,p span{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-image: url(./Images/immagine1.jpeg);
+    background-size: cover ;
+}
+
+h1{
+    font-size: 62px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+h2{ 
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.color_bar_brushes{
+    background-color: springgreen;
+}
+.color_bar_frames {
+    background-color: lightcoral;
+}
+.color_bar_paint {
+    background-color: skyblue;
+}
+
+p span{
+font-weight: bold;
+color:blue;
+}
+
+
+
